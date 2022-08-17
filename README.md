@@ -3,12 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/purpleandnine" target="blank"><img src="https://img.shields.io/twitter/follow/purpleandnine?logo=twitter&style=for-the-badge" alt="purpleandnine" /></a> </p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=purpleandnine&show_icons=true&theme=radical" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/purpleandnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purpleandnine" height="30" width="40" /></a>
 <a href="https://medium.com/@purpleandnine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@purpleandnine" height="30" width="40" /></a>
+
+
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=purpleandnine&show_icons=true&theme=radical" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
