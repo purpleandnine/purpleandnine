@@ -1,15 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Shiv! 👋🏻
 
-<!--
-**purpleandnine/purpleandnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=purpleandnine&show_icons=true&theme=radical" />
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpleandnine&layout=compact"/>
 
-- 🔭 I’m currently working on Applications of AI
-- 🌱 I’m currently learning Python, HTML, CSS and Java
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: [Twitter
-- 
-![Github_Stats](https://github-readme-stats.vercel.app/api?username=purpleandnine&theme=radical)
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="left" alt="Microsoft SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
